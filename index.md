@@ -37,3 +37,5 @@ now i deal with the case to let code fail, i can simply use *nano* to editor on 
 and we can see, the code is file in Test file we just editor!
 
 ![image](lab5.5.png)
+
+
